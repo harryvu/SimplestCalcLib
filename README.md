@@ -11,3 +11,4 @@ To write unit tests, we need to install pytest framework
 
 To run test
 > pytest -v
+> pytest -v --cov test_calculator.py
