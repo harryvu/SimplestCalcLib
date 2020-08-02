@@ -9,3 +9,5 @@ That's means it's the first directory searched when running an executable on the
 To write unit tests, we need to install pytest framework
 (calcenv) PS D:\Repos\SimplestCalcLib> pip install pytest pytest-cov
 
+To run test
+> pytest -v
